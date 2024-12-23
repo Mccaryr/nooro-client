@@ -2,8 +2,18 @@ Hi! This is a Next.js Todo Application where one can create, read, update, and d
 Remember to run the back-end server code first at https://github.com/Mccaryr/nooro-api
 
 ## Getting Started
+First, install dependencies:
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
 
-First, run the development server:
+Second, run the development server:
 
 ```bash
 npm run dev
